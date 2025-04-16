@@ -1,0 +1,7 @@
+my_landing_page/
+├── app.py
+├── templates/
+│   └── index.html
+└── static/
+    └── css/
+        └── style.css
